@@ -1,6 +1,11 @@
 Documentation
 =============
 
+Please go to https://github.com/oerpub/documentation/wiki !
+
+Reason for this repository
+==========================
+
 Documentation for OERPUB
 
 1. Host Wiki pages here
