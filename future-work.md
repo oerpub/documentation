@@ -16,7 +16,7 @@ github-bookeditor
 3. Edit and save metadata for the ebooks.
 4. Save the html in a pretty printed format so that edit differences are always meaningful.
 5. Include link to download an EPUB of the book. Can almost just link to the github repo zip. But need to unwrap one level and make sure that only one book is included.
-5.1 May want to use branches to create clean EPUB version of each book in a repository.
+ 1. May want to use branches to create clean EPUB version of each book in a repository.
 6. Include link to download PDF of book (from the continuous PDF service)
 7. Validation on save. 
 8. Converting back and forth between sections and headings. The editor uses headings to represent sections which are representable by headings. Complex sections are left as is.
@@ -35,15 +35,15 @@ page editor (OERPUB Aloha Editor fork)
 6. Paste cleanup -- paste from word, open office, or html brings in unwanted styles. 
 7. Undo support
 8. Performance of large documents
-8.1 Deeply nested semantic structures.
-8.2 Lots of math
-8.3 Lots of images
+ 1. Deeply nested semantic structures.
+ 2.  Lots of math
+ 3. Lots of images
 
 both
 ====
 
 1. Font for new icons
 2. Accessibility 
-2.1 For learners
-2.1.1 Add metadata so can discover appropriate content
-2.1.2 Enrich plugins to create more accessible content. 
+ 1. For learners
+   1. Add metadata so can discover appropriate content
+   2. Enrich plugins to create more accessible content. 
