@@ -1,9 +1,13 @@
+# Documentation for OERPUB Repositories 
 
-Documentation for OERPUB Repositories 
-=====================================
+General information about the OERPUB projects can be found on [the wiki](
+https://github.com/oerpub/documentation/wiki).
 
-View at https://github.com/oerpub/documentation/wiki !
+## Developer documentation
+* [Github Bookeditor](https://github.com/oerpub/github-bookeditor/blob/master/README.md)
+* [Atc](https://github.com/Connexions/atc/blob/master/README.md)
+* The OERPUB fork of [Aloha-Editor](https://github.com/oerpub/Aloha-Editor/blob/master/README.md)
 
-1. Host Wiki pages here
-2. Host HTML pages here on gh-pages (please keep master=gh-pages in sync for that)
-3. Logos for the project are Copyright (c) 2013 Kathi Fletcher, and may not be reused without permission.
+## Copyright
+Logos for the project are Copyright © 2013 Kathi Fletcher, and may not be
+reused without permission.
